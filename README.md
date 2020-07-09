@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi nerds, 👋
+
 - 🌱 I’m currently learning Flutter
 <!--
 **miadugas/miadugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
