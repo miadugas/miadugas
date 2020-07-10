@@ -1,7 +1,7 @@
 ### Hi nerds, 👋
 ## Alignment: Chaotic Apathetic 
 ## Class: Code Sorceress / Bard
-## Race: Half Coffee
+# Made of Stardust & JavaScript
 
 - 🌱 I’m currently learning Flutter
 <!--
