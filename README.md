@@ -1,7 +1,7 @@
-### Hi nerds, 👋
-## Alignment: Chaotic Apathetic 
-## Class: Code Sorceress / Bard
-# Made of Stardust & JavaScript
+## Hi nerds, 👋
+### Alignment: Chaotic Apathetic 
+### Class: Code Sorceress / Bard
+### Made of Stardust & JavaScript
 
 - 🌱 I’m currently learning Flutter
 <!--
