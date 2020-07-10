@@ -1,4 +1,7 @@
 ### Hi nerds, 👋
+## Alignment: Chaotic Apathetic 
+## Class: Code Sorceress / Bard
+## Race: Half Coffee
 
 - 🌱 I’m currently learning Flutter
 <!--
