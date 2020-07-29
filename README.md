@@ -4,7 +4,6 @@
 
 ### Made of Stardust & JavaScript
 
-- 🌱 I’m currently learning Flutter & Dart
 <!--
 **miadugas/miadugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
