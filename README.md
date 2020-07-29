@@ -1,4 +1,4 @@
-[![Hi I'm Mia and I make cool stuff.](https://)](https://www.miadugas.com)
+[![Hi I'm Mia and I make cool stuff.](https://Hi I'm Mia and I make cool stuff (1).png)](https://www.miadugas.com)
 
 
 
