@@ -1,4 +1,4 @@
-[![Hi I'm Mia and I make cool stuff.](https://github.com/miadugas/miadugas/blob/master/Hi%20I'm%20Mia%20and%20I%20make%20cool%20stuff%20(1).png)](http://www.miadugas.com)
+[![Hi I'm Mia and I make cool stuff.](https://github.com/miadugas/miadugas/blob/master/Hi%20I'm%20Mia%20and%20I%20make%20cool%20stuff%20(1).png)](www.miadugas.com)
 
 
 
