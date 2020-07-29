@@ -4,7 +4,7 @@
 
 ### Made of Stardust & JavaScript
 Hi there!
-I <3 all things JavaScript from VanillaJS to Angular to Vue 
+I <3 all things JavaScript from VanillaJS to React to Angular to Vue 
 
 <!--
 **miadugas/miadugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
