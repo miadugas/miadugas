@@ -1,3 +1,7 @@
+[![Hi I'm Mia and I make cool stuff.](https://)](https://www.miadugas.com)
+
+
+
 ### Made of Stardust & JavaScript
 
 - 🌱 I’m currently learning Flutter & Dart
