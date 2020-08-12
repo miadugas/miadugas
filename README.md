@@ -5,7 +5,7 @@
 ### Made of Stardust, JavaScript & an xM1+ Mifare 1k implant
 Hi there!
 I <3 all things JavaScript from VanillaJS to React, Angular & Vue.
-Stepping up my mobile dev chops by learning Python, Flutter & Dart at the moment.
+Stepping up my mobile dev chops by learning Flutter & Dart & finetuning my data science chops with Python.
 
 <!--
 **miadugas/miadugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
