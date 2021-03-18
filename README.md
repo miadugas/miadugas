@@ -2,10 +2,12 @@
 
 
 
-### Made of Stardust, JavaScript & an xM1+ Mifare 1k implant
+### Made of Stardust, JavaScript,a xM1+ Mifare 1k RFID chip, a NExT 13.56MHz & 125kHz T5577 RFID dual chip & a VivoKey Spark2 13.56MHz chip implant.
+
 Hi there!
-I <3 all things JavaScript from VanillaJS to React, Angular & Vue.
-Stepping up my mobile dev chops by learning Flutter & Dart and finetuning my data science chops with Python.
+I <3 all things JavaScript from VanillaJS to React, Angular, Vue and technology in general.
+Feel free to check out some of my recent projects and reach out if you want to collaborate or grab a cup of coffee sometime. 
+I've also been known to enjoy a good game of D&D from time to time.
 
 <!--
 **miadugas/miadugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
