@@ -2,7 +2,7 @@
 
 
 
-### Made of Stardust, JavaScript,a xM1+ Mifare 1k RFID chip, a NExT 13.56MHz & 125kHz T5577 RFID dual chip & a VivoKey Spark2 13.56MHz chip implant.
+### Made of Stardust, JavaScript,a xM1+ Mifare 1k RFID chip, a NExT 13.56MHz & 125kHz T5577 RFID dual chip, xG3 v1 axial biomagnet & a VivoKey Spark2 13.56MHz chip implant.
 
 Hi there!
 I <3 all things JavaScript from VanillaJS to React, Angular, Vue and technology in general.
