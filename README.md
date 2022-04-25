@@ -2,24 +2,7 @@
 
 
 
-### Made of Stardust, JavaScript a xM1+ Mifare 1k RFID chip, a NExT 13.56MHz & 125kHz T5577 RFID dual chip, xG3 v1 axial biomagnet and a VivoKey Spark2 13.56MHz chip implant.
+### Colorado based React, NodeJS and JavaScript Software Engineer made of stardust & JavaScript.
 
-Hi there!
-I <3 all things React but mainly technology in general.
-Feel free to check out some of my recent projects and reach out if you want to collaborate or grab a cup of coffee sometime. 
-I've also been known to enjoy a good game of D&D from time to time.
+I create aesthetically pleasing and flexible Front-End components with highly functional and testable Back-End logic. I have 5 years of experience in React, NodeJS, MongoDB, JavaScript, REST API’s and Google Cloud Products. My work has been authorized & featured in marketing for Trinity Education's full stack bootcamp at the University of Denver.
 
-<!--
-**miadugas/miadugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
