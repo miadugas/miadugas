@@ -2,7 +2,7 @@
 
 
 
-## Colorado based React, NodeJS and JavaScript Software Engineer made of stardust & JavaScript.
+## Colorado based NodeJS and JavaScript Software Engineer made of stardust & JavaScript.
 
 I'm a practicing minimalist & I build cool things for the web. 
 
