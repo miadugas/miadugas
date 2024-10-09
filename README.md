@@ -4,6 +4,6 @@
 
 ## Colorado based Software Engineer made of stardust & JavaScript.
 
-Practicing minimalist. I build cool things for the web. 
+Practicing minimalist & builder of cool things for the web. 
 
 
